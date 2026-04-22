@@ -1,4 +1,4 @@
-# No BrainRot
+# Not BrainRot
 
 ## 1. Visão do Projeto
 ### 1.1 Propósito
